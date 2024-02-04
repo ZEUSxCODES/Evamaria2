@@ -50,14 +50,11 @@ async def start(client, message):
             InlineKeyboardButton('Hᴇʟᴩ 🕸️', callback_data='help'),
             InlineKeyboardButton('Aʙᴏᴜᴛ ✨', callback_data='about')
         ]]
-        reply_markup = InlineKeyboardMarkup(buttons)
-        await message.reply_photo(
-            photo=random.choice(PICS),
-            caption=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
-            reply_markup=reply_markup,
-            parse_mode=enums.ParseMode.HTML
-        )
-        return
+        m = await message.reply_sticker("CAACAgUAAxkBAAELT_VlvyOVrjRNLjWg2-HQtdLaeEmhNQAC-QYAA7a4V23ZiJ50ohcZNAQ") 
+        await asyncio.sleep(2)
+        await message.reply_photo(photo=random.choice(PICS), caption=START_MESSAGE.format(user=message.from_user.mention, bot=client.mention), reply_markup=InlineKeyboardMarkup(buttons), parse_mode=enums.ParseMode.HTML)
+        return await m.delete()
+        
     if AUTH_CHANNEL and not await is_subscribed(client, message):
         try:
             invite_link = await client.create_chat_invite_link(int(AUTH_CHANNEL))
@@ -96,14 +93,11 @@ async def start(client, message):
             InlineKeyboardButton('Hᴇʟᴩ 🕸️', callback_data='help'),
             InlineKeyboardButton('Aʙᴏᴜᴛ ✨', callback_data='about')
         ]]
-        reply_markup = InlineKeyboardMarkup(buttons)
-        await message.reply_photo(
-            photo=random.choice(PICS),
-            caption=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
-            reply_markup=reply_markup,
-            parse_mode=enums.ParseMode.HTML
-        )
-        return
+        m = await message.reply_sticker("CAACAgUAAxkBAAELT_VlvyOVrjRNLjWg2-HQtdLaeEmhNQAC-QYAA7a4V23ZiJ50ohcZNAQ")
+        await asyncio.sleep(2)
+        await message.reply_photo(photo=random.choice(PICS), caption=START_MESSAGE.format(user=message.from_user.mention, bot=client.mention), reply_markup=InlineKeyboardMarkup(buttons), parse_mode=enums.ParseMode.HTML)
+        return await m.delete()
+        
     data = message.command[1]
     try:
         pre, file_id = data.split('_', 1)
