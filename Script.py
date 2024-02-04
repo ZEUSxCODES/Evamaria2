@@ -10,9 +10,27 @@ class script(object):
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: Mongo DB
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: Local Server
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v7.7.7 [ Alpha ]"""
-    SOURCE_TXT = """<b>NOTE:</b>
-- This is not a open source project. 
-- Source - https://t.me/Film_Nest  
+    SOURCE_TXT = """𝐖𝐚𝐧𝐭 𝐌𝐨𝐯𝐢𝐞𝐬, 𝐒𝐨 𝐓𝐲𝐩𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬👇
+
+Example :
+RRR Hindi
+Rrr 2022 hindi
+Rrr hin 
+Rrr 2022 hin
+
+Note : ᴅᴏɴ'ᴛ ᴛʏᴘᴇ ꜱᴇᴀꜱᴏɴ ❌ 
+
+ɪꜰ ᴡᴀɴᴛ ꜱᴇʀɪᴇꜱ
+ᴛʏᴘᴇ ʟɪᴋᴇ ᴛʜɪꜱ 👇
+
+Example;
+Maharani s01
+Mirzapur s02
+
+ɪꜰ  ᴛʜᴇ ᴍᴏᴠɪᴇꜱ ᴡᴀꜱ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ʀᴇQᴜᴇꜱᴛᴇᴅ ʟᴀɴɢᴜᴀɢᴇ ᴏʀ ɴᴏᴛ ʀᴇʟᴇᴀꜱᴇᴅ ʏᴇᴛ ᴡɪʟʟ ɴᴏᴛ ᴄᴏᴍᴇ ɪɴ ꜱᴇᴀʀᴄʜ 🔎 .
+
+
+ɪꜰ ᴍᴏᴠɪᴇꜱ ɪꜱ ʀᴇʟᴇᴀꜱᴇᴅ ʙᴜᴛ ɴᴏᴛ ɢᴇᴛᴛɪɴɢ ɪᴛ ꜱᴏ ᴛʏᴘᴇ ᴡɪᴛʜ #Request .  
 
 <b>DEVS:</b>
 - <a href=https://t.me/Film_Nest>Film_Nest</a>"""
