@@ -3,10 +3,10 @@ class script(object):
 
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>.
 
-I ᴀᴍ @BinaryQuest Mᴏᴠɪᴇ/Sᴇʀɪᴇꜱ Pʀᴏᴠɪᴅᴇʀ ʙᴏᴛ \n\n ꜱᴇɴᴅ ᴍᴇ ᴛʜᴇ ᴍᴏᴠɪᴇ/ꜱᴇʀɪᴇꜱ Nᴀᴍᴇ & Eɴᴊᴏʏ\n\ᴅᴏɴ`ᴛ ꜰᴏʀɢᴇᴛ ᴛᴏ Jᴏɪɴ ᴍʏ Gʀᴏᴜᴘꜱ/Cʜᴀɴɴᴇʟ ᴛᴏ ɢᴇᴛ ᴀʟʟ Lᴀᴛᴇꜱᴛ Uᴘᴅᴀᴛᴇꜱ</b>"""
+I ᴀᴍ @BinaryQuest Mᴏᴠɪᴇ/Sᴇʀɪᴇꜱ Pʀᴏᴠɪᴅᴇʀ ʙᴏᴛ 🖤 \n\n Sᴇɴᴅ ᴍᴇ ᴛʜᴇ Mᴏᴠɪᴇ/Sᴇʀɪᴇꜱ Nᴀᴍᴇ & Eɴᴊᴏʏ🌟 \n\nᴅᴏɴ`ᴛ ꜰᴏʀɢᴇᴛ ᴛᴏ Jᴏɪɴ ᴍʏ Gʀᴏᴜᴘꜱ/Cʜᴀɴɴᴇʟ ᴛᴏ ɢᴇᴛ ᴀʟʟ Lᴀᴛᴇꜱᴛ Uᴘᴅᴀᴛᴇꜱ☠️</b>"""
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
     ABOUT_TXT = """✯ Mʏ ɴᴀᴍᴇ: BQ Mᴏᴠɪᴇꜱ Bᴏᴛ
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: @BinaryQuest
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: @BinaryQuest ☠️
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: BQ ₚᵥₜ
@@ -34,7 +34,7 @@ Mirzapur s02
 ɪꜰ ᴍᴏᴠɪᴇꜱ ɪꜱ ʀᴇʟᴇᴀꜱᴇᴅ ʙᴜᴛ ɴᴏᴛ ɢᴇᴛᴛɪɴɢ ɪᴛ ꜱᴏ ᴛʏᴘᴇ ᴡɪᴛʜ #Request .  
 
 <b>DEVS:</b>
-- <a href=https://t.me/Itz_Sahil_official>BQ Aᴅᴍɪɴ</a>"""
+- <a href=https://t.me/Itz_Sahil_official>BQ Aᴅᴍɪɴ 😼</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and binaryQuest_bot will respond whenever a keyword is found the message
@@ -111,7 +111,7 @@ This module only works for my admins
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
     STATUS_TXT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
-↬ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
+↬ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code> 
 ↬ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
 ↬ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
 ↬ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
