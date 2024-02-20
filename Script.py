@@ -1,16 +1,14 @@
 class script(object):
     START_TXT = """<b>✨ Hᴇʟʟᴏ {}.
-
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>.
-
 I ᴀᴍ @BinaryQuest Mᴏᴠɪᴇ/Sᴇʀɪᴇꜱ Pʀᴏᴠɪᴅᴇʀ ʙᴏᴛ 🖤 \n\n Sᴇɴᴅ ᴍᴇ ᴛʜᴇ Mᴏᴠɪᴇ/Sᴇʀɪᴇꜱ Nᴀᴍᴇ & Eɴᴊᴏʏ🌟 \n\nᴅᴏɴ`ᴛ ꜰᴏʀɢᴇᴛ ᴛᴏ Jᴏɪɴ ᴍʏ Gʀᴏᴜᴘꜱ/Cʜᴀɴɴᴇʟ ᴛᴏ ɢᴇᴛ ᴀʟʟ Lᴀᴛᴇꜱᴛ Uᴘᴅᴀᴛᴇꜱ☠️</b>"""
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
-    ABOUT_TXT = """✯ Mʏ ɴᴀᴍᴇ: BQ Mᴏᴠɪᴇꜱ Bᴏᴛ
+    ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: BQ Mᴏᴠɪᴇꜱ Bᴏᴛ
 ✯ Dᴇᴠᴇʟᴏᴩᴇʀ: @BinaryQuest ☠️
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: BQ ₚᵥₜ
-✯ Mʏ Vᴇʀꜱɪᴏɴ: FilmNest ᴠ4.5.0"""
+✯ Mʏ Vᴇʀꜱɪᴏɴ: BQ ᴠ4.5.0</b>"""
     SOURCE_TXT = """𝐖𝐚𝐧𝐭 𝐌𝐨𝐯𝐢𝐞𝐬, 𝐒𝐨 𝐓𝐲𝐩𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬👇
 
 Example :
